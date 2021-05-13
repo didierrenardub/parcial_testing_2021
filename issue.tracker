@@ -37,5 +37,44 @@
                 "status": "Abierta"
             }
         ]
+    },
+    "Issue 4": {
+        "issues": [
+            {
+                "title": "Se intenta borrar el archivo \"experimento\", la aplicaci\u00f3n dice que fue exitosa la operaci\u00f3n, pero el nombre del archivo sigue apareciendo en el menu",
+                "description": "Se abre la aplicaci\u00f3n, se abre la opci\u00f3n de eliminar archivo, la aplicaci\u00f3n dice que fue exitosa la operaci\u00f3n, pero el nombre del archivo sigue apareciendo en el menu.",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "Issue5": {
+        "issues": [
+            {
+                "title": "Despu\u00e9s de ingresar a la opci\u00f3n de crear proyecto, y crear un nombre, no hay una opci\u00f3n para regresar atras a la interfaz anterior ",
+                "description": "Abrir la aplicaci\u00f3n, se crea un archivo, se le da un nombre, no se puede regrsar a la interfaz anterior",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "Issue6": {
+        "issues": [
+            {
+                "title": "Al entrar a la opci\u00f3n de crear un archivo, no hay opci\u00f3n para regresar atras, al menu principal",
+                "description": "Abrir la aplicaci\u00f3n, entrar a la opci\u00f3n de crear un archivo, no hay opcion para regresar atras",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 100,
+                "version": "100",
+                "status": "Abierta"
+            }
+        ]
     }
 }
