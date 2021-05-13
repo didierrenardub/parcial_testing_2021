@@ -1,0 +1,20 @@
+Issue 1:
+
+Titulo: Crasheo al ingresar nombre del proyecto
+Descripción: Al ingresar como titulo del proyecto 'test1' la aplicacion crashea
+Severidad: Media
+Status: Abierta
+
+---------------------------------------------------------------------------------
+
+Issue 2:
+
+Titulo: Bo de la aplicacion
+descripcion: Si creamos un proyecto, volvemos atras, tocamos en que queremos editar el proyecto que acabamos de crear (el cual esta vacio) nos saldra una advertencia que debemos crear un reporte, y nos dejara la opcion de escribir. Sin embargo, la aplicaci\u00f3n no saldra de ahi dado que escribamos lo que escribamos, permanecera de esa forma. Hay que cerrarla y volverla a correr para solucionarlo
+Severidad: Bloqueante
+Status: Abierta
+
+----------------------------------------------------------------------------------
+
+Issue 3:
+

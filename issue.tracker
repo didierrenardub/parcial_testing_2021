@@ -1,0 +1,28 @@
+{
+    "Issues": {
+        "issues": [
+            {
+                "title": "Crasheo al ingresar nombre del proyecto",
+                "description": "al ingresar como titulo del proyecto 'test1' la aplicacion crashea",
+                "steps": [],
+                "severity": "Media",
+                "repro_rate": 1,
+                "version": "version 1",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "Issue 2": {
+        "issues": [
+            {
+                "title": "Bloqueo de aplicaci\u00f3n",
+                "description": "Si creamos un proyecto, volvemos atras, tocamos en que queremos editar el proyecto que acabamos de crear (el cual esta vacio) nos saldra una advertencia que debemos crear un reporte, y nos dejara la opcion de escribir. Sin embargo, la aplicaci\u00f3n no saldra de ahi dado que escribamos lo que escribamos, permanecera de esa forma. Hay que cerrarla y volverla a correr para solucionarlo",
+                "steps": [],
+                "severity": "Bloqueante",
+                "repro_rate": 1,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    }
+}
