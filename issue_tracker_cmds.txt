@@ -1,0 +1,19 @@
+2
+automated_proyect
+1
+1
+titulo
+2
+mi descripcion
+3
+severidad
+1
+4
+100
+5
+0
+6
+1
+7
+3
+4

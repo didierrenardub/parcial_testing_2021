@@ -1,0 +1,97 @@
+{
+    "123": {
+        "issues": []
+    },
+    "pepe": {
+        "issues": [
+            {
+                "title": "test",
+                "description": "hola",
+                "steps": [],
+                "severity": "Baja",
+                "repro_rate": 100,
+                "version": "123",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "AB!@#123": {
+        "issues": []
+    },
+    "jdfsklayfwehruhrfiewuhfi784yt3478y394yfg#$@#R#$REWfjshafkjsdfghrefl78y3784fhjkhfjrhfgulhaurghekrher7igierhfg4783$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$": {
+        "issues": []
+    },
+    "juan_donadio": {
+        "issues": [
+            {
+                "title": "La aplicacion entra en un loop infinito con ciertas opciones",
+                "description": "La aplicacion se queda esperando infinitamente al realizar ciertas acciones que usualmente no tendrian sentido. Hasta ahora encontre que al abrir o eliminar un proyecto inexistente, la app me da el apropiado mensaje de error pero luego se queda infinitamente a la espera de que le de un nombre de proyecto. Lo mismo sucede al intentar editar un reporte inexistente.",
+                "steps": [],
+                "severity": "Bloqueante",
+                "repro_rate": 100,
+                "version": "0",
+                "status": "Abierta"
+            },
+            {
+                "title": "Algunas tareas/campos producen errores inesperados o no producen accion alguna",
+                "description": "Algunas tareas, como eliminar y recrear un proyecto, a veces producen un mensaje de erro erroneo que no tiene nada que ver con la tarea que se esta intentando ejecutar. Por ejemplo al eliminar y recrear un proyecto se esperaria que la ultima produzca un mensaje del estilo \"proyecto creado exitosamente\" pero en algunas ocasiones produce \"debe ingresar un nombre para el proyecto\" o \"proyecto eliminado exitosamente\"",
+                "steps": [],
+                "severity": "Critica",
+                "repro_rate": 50,
+                "version": "0",
+                "status": "Abierta"
+            },
+            {
+                "title": "Al eliminar un proyecto no se elimina inmediatamente de la lista de proyectos y si el usuario en vez de seleccionar otro proyecto o salir, selecciona el proyecto eliminado se produce un error de creacion, el cual no tiene nada que ver.",
+                "description": "100",
+                "steps": [],
+                "severity": "Media",
+                "repro_rate": 0,
+                "version": "Falta el campo \"Pasos de reproduccion\" en el menu de agregar reportes",
+                "status": "Abierta"
+            },
+            {
+                "title": "El menu de agregar reportes carece de un campo de \"pasos de reproduccion\", el cual si aparece listado en el ar",
+                "description": "100",
+                "steps": [],
+                "severity": "Baja",
+                "repro_rate": 0,
+                "version": "50",
+                "status": "Abierta"
+            },
+            {
+                "title": "La aplicacion mezcla los campos de los reportes",
+                "description": "La aplicacion a la hora de guardar el archivo, mezcla el contenido de los campos aleatoriamente. Podemos ver el campo Version conteniendo Titulos!",
+                "steps": [],
+                "severity": "Critica",
+                "repro_rate": 0,
+                "version": "Ocasionalmente la tasa de reproduccion se guarda como 0 sin importar el",
+                "status": "Abierta"
+            },
+            {
+                "title": "Ocasionalmente la tasa de reproduccion se guarda como 0 sin importar el",
+                "description": "60",
+                "steps": [],
+                "severity": "Media",
+                "repro_rate": 0,
+                "version": "0",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "automated_proyect": {
+        "issues": []
+    },
+    "1": {
+        "issues": []
+    },
+    "2": {
+        "issues": []
+    },
+    "3": {
+        "issues": []
+    },
+    "juan_donadio_2": {
+        "issues": []
+    }
+}
