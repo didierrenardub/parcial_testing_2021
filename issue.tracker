@@ -1,0 +1,60 @@
+{
+    "Parcial": {
+        "issues": [
+            {
+                "title": "Al elejir una opcion de seleccion (abrir/editar) cuando no hay opciones no se puede continuar usando la aplicacion",
+                "description": "Caundo se selecciona la opcion de editar reportes o abrir proyectos sin tener reportes o proyectos hechos te lanza un mensaje de error y luego se muestra el submenu correspondiente. Sin embargo este submenu esta vacio y sin la opcion para cancelar o volver para atras. esto provoca que no se puede continuar utilizando la aplicacion a mneos que se la reinicie.",
+                "steps": [],
+                "severity": "Critica",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            },
+            {
+                "title": "Ingreso de datos en campo incorrecto del reporte.",
+                "description": "Al querer ingresar datos en el reporte dentro de los campos Version y Tasa de reproduccion se da la situacion que se mezclan los campos. el valor de version es ingresadoen el de tasa y el de tasa en el de version. Sin embargo esto no ocurre siempre.",
+                "steps": [],
+                "severity": "Critica",
+                "repro_rate": 30,
+                "version": "1",
+                "status": "Abierta"
+            },
+            {
+                "title": "Validaciones de datos aplicadas a campos incorrectos",
+                "description": "A veces sucede que las validaciones de campos en el reporte se aplican a campos erroneos. y hay que volver a ingresar los datos para que los acepte. sucede que cuando tenes este error se replica dentro de todos los campos de ese reporte.",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 10,
+                "version": "1",
+                "status": "Abierta"
+            },
+            {
+                "title": "Campo faltante dentro de las opciones en Reporte",
+                "description": "Al revisar el archivo donde se cargan los issues, se puede ver una opcion faltante que es Steps (pasos a seguir). esta opcion no es presentada como tal en el menu del reporte",
+                "steps": [],
+                "severity": "Baja",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            },
+            {
+                "title": "Error en los menus al mostrar el numero en las opciones",
+                "description": "rara vez ocurre que la cuenta de las opciones disponibles es erronea",
+                "steps": [],
+                "severity": "Baja",
+                "repro_rate": 10,
+                "version": "1",
+                "status": "Abierta"
+            },
+            {
+                "title": "No se actualiza automaticamente el menu al borrar proyectos y reportes",
+                "description": "cuando se borra un reporte hay que salir del menu para que no siga apareciendo entre las opciones",
+                "steps": [],
+                "severity": "Baja",
+                "repro_rate": 10,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    }
+}
