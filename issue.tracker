@@ -1,0 +1,41 @@
+{
+    "Issue": {
+        "issues": [
+            {
+                "title": "No se puede regresar de la opci\u00f3n de abrir proyecto si no encuentra el archivo buscado",
+                "description": "Abrir la aplicaci\u00f3n, ingresar la opcion abrir proyecto, ingrsar un nombre de archivo para abrir un proyecto inexistente, no hay opciones para regresar a la interfaz principal.",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "Issue2": {
+        "issues": [
+            {
+                "title": "No abre el archivo guardado en la opcion abrir texto",
+                "description": "Abrir la aplicaci\u00f3n, ingresar a la opcion abrir proyecto, ingresar el nombre del archivo deseado, no abre el archivo ",
+                "steps": [],
+                "severity": "Bloqueante",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    },
+    "Issue3": {
+        "issues": [
+            {
+                "title": "Si el texto que se ingresa en la descripci\u00f3n es largo, hay una parte que queda grabada en la parte derecha de la pantalla despues de dar guardar el archivo",
+                "description": "Abrir la aplicacion, elegir la opcion crear proyecto, elegir poner una descripcion, escribir un texto largo, terminar el reporte y dar la opcion guardar",
+                "steps": [],
+                "severity": "Alta",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
+    }
+}
