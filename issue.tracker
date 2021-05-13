@@ -61,7 +61,7 @@
             },
             {
                 "title": "La aplicacion mezcla los campos de los reportes",
-                "description": "La aplicacion a la hora de guardar el archivo, mezcla el contenido de los campos aleatoriamente. Podemos ver el campo Version conteniendo Titulos!",
+                "description": "La aplicacion a la hora de guardar el archivo, mezcla el contenido de los campos aleatoriamente. Podemos ver el campo Version conteniendo Titulos!EDIT:Parece ser que mientas mas issues cargo, mas aumenta la probabilidad de que se mezclen los campos. Creando un proyecto nuevo me dio indicio de ese comportamiento.",
                 "steps": [],
                 "severity": "Critica",
                 "repro_rate": 0,
