@@ -9,6 +9,9 @@ def test_init():
 
     assert isinstance(pc, PowerConsumer)
 
+    with pytest.raises(TypeError):
+        assert PowerConsumer()  # pylint: disable=no-value-for-parameter
+
 def test_input():
     input = 100
     input_different = 200

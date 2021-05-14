@@ -10,6 +10,9 @@ def test_init():
 
     assert isinstance(ps, PowerSource)
 
+    with pytest.raises(TypeError):
+        assert PowerSource()  # pylint: disable=no-value-for-parameter
+
 def test_output():
     output = 2000
     output_different = 3000
