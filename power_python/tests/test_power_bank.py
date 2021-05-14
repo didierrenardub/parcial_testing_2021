@@ -66,3 +66,12 @@ def test_supply_power():
     pb = PowerBank(100, 200, 2000)
 
     assert pb.supply_power() == 0
+
+    # pc_1 = PowerConsumer(300)
+    # pc_2 = PowerConsumer(500)
+
+    # assert pb.connect(pc_1)
+    # assert pb.connect(pc_2)
+
+    # assert pb.receive_power(2000)
+    # assert pb.supply_power() == 0
