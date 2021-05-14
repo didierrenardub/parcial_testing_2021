@@ -1,0 +1,9 @@
+Seguridad:
+Me fije que los metodos no admitan tipos de datos que
+no sean los esperados.
+
+Documantacion:
+Me fije que los docstring de los metodos sean claros y entendibles.
+Prueba de esto es poder haber escrito los tests a partir
+dichos docstrings.
+

@@ -1,0 +1,8 @@
+Usabilidad:
+Me fijo que los menues hagan lo que se espera y que el resultado
+final (trakear el issue) se haga de manera acorde.
+
+Documentacion:
+Trate de conseguir que el programa me brinde alguna ayuda o
+documentacion sobre su uso. Sin exito.
+
