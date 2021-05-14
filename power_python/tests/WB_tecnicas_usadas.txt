@@ -7,3 +7,12 @@ Me fije que los docstring de los metodos sean claros y entendibles.
 Prueba de esto es poder haber escrito los tests a partir
 dichos docstrings.
 
+Tecnicas no probadas
+====================
+Me gustaria haber probado el stress, performance y volumen en la 
+aplicacion:
+Stress, pidiendole al power_bank que haga cargas y descargas sucesivamente.
+Performance, en base al stress medir que los tiempos de ejecucion
+sean medianamente aceptables.
+Volumen, cargandole una gran cantidad de dispositivos al power_bank,
+tratando de desbordar self._connections en power_source.
