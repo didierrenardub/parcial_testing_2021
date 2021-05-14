@@ -1,0 +1,7 @@
+En el ejercicio de caja negra, pruebo diferentes opciones, o tomar diferentes caminos.
+Por eso en caja negra, es prueba de usuario, y luego en caja blanca, se considera 
+el High Order Testing, todas las pruebas son conducidas para el rendimiento y los requerimientos. Son 
+pruebas automatizadas sobre un código escrito. Y es un ejemplo para que quede documentación 
+de los módulos, métodos y clases. Y obviamente super importante encontrar y solucionar un error antes de que pase
+a mayores. La condición absoluta para que la aplicación se ejecute, tiene que pasar todos
+los unittest sin ningún error.
