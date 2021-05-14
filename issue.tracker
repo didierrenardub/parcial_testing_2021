@@ -76,5 +76,21 @@
                 "status": "Abierta"
             }
         ]
+    },
+    "experimentoDos": {
+        "issues": []
+    },
+    "Issue7": {
+        "issues": [
+            {
+                "title": "Se crea un archivo \"experimentoDos\" para intentar editarlo despu\u00e9s, la aplicaci\u00f3n solo muestra un cuadro de editar y no da retroalimentaci\u00f3n al usuario de lo que esta sucedindo cuando se esta ingresando los datos, solo se queda en esa pantalla",
+                "description": "Abrir la aplicaci\u00f3n, ingresar a abrir proyecto, abrir el archivo deseado, editar reporte, se abre un cuadro de editar reporte y no da un feedback al usuario de lo que esta sucediendo, solo ingresa datos y no supera esa interfaz ",
+                "steps": [],
+                "severity": "Critica",
+                "repro_rate": 100,
+                "version": "1",
+                "status": "Abierta"
+            }
+        ]
     }
 }
