@@ -1,6 +1,6 @@
 from ..power_source import PowerSource
 from ..power_bank import PowerBank
-
+from ..power_consumer import PowerConsumer
 
 def test_example():
     p = PowerSource(300)
@@ -10,3 +10,9 @@ def test_example():
     assert b.capacity() == 3000 and b.input() == 150 and b.output() == 0
     assert p.connect(b) and not p.connect(b)
     assert p.supply_power() == p.output() - b.input() and b.output() == 150
+
+
+
+
+
+
