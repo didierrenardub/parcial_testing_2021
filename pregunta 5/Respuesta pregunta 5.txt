@@ -1,0 +1,5 @@
+Para las pruebas de caja negra utilize la tecnica de Error Guessing, probando distintos puntos que pudieran tener falla, al azar.
+Se utilizo la tecnica de analisis de valor de limites probando los limites al momento de poner las descripciones de los issues
+que eran extensas y fallaba la aplicación.
+Para las pruebas de caja blanca utilize la tecnica de cobertura de desiciones y de condiciones, 
+intentando obtener un resultado que resultara invalido o valido para cada test.
