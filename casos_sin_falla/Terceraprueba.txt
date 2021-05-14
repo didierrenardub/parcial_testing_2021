@@ -1,0 +1,16 @@
+3º Pruebo saltear alguna caracteristica que me pide para crear el Issue, me la exige.
+    1º Corro el programa issue_tracker.py desde la terminal del VSC.
+    2º Creo un proyecto.
+    3º Elijo la opción nuevo reporte.
+    4º Completo todas las caracteristicas que me pide, menos la de estado.
+    5º Me aparece un cartel exigiendome que lo agregue.
+    6º Apreto Enter y me vuelve a poner para que coloque el Estado.
+
+Plataforma PC sistema operativo: macOS 10.13.6 (17G12034)
+RAM: 8 GB
+Procesador: 2,3 GHz Intel Core i5
+Disco de arranque: Macintosh HD
+GPU: Intel Iris Plus Graphics 640 1536 MB
+
+Aplicación: Issue_tracker Versión: v0.0.1      
+    

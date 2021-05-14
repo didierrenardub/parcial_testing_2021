@@ -1,0 +1,14 @@
+2º Pruebo diferentes caracteres
+    1º Corro el programa issue_tracker.py desde la terminal del VSC.
+    2º Selecciono la opción de Crear Proyecto.
+    3º Al nombrarlo pruebo diferentes carácteres, para ver si sucede algo.
+    4º El programa parece captarlo, sin embargo el issue.tracker, al guardarlo no estaría aceptando
+    ciertos carácteres. Igual no falla de por sí el programa.
+
+Plataforma PC sistema operativo: macOS 10.13.6 (17G12034)
+RAM: 8 GB
+Procesador: 2,3 GHz Intel Core i5
+Disco de arranque: Macintosh HD
+GPU: Intel Iris Plus Graphics 640 1536 MB
+
+Aplicación: Issue_tracker Versión: v0.0.1    
