@@ -16,4 +16,4 @@ La estrategia de adivinar errores es simplemente listar situaciones qu puesden l
 
 Y la estrategia de equivalencias siempre llama a buscar los casos validos e invalidos y las respuestas esperadas.
 
-
+en el caso de ejercicio 4 la idea fuew usar la estrategia de correr la mayor cantidad de statements posible y ver de que tambien se ejecuten las partes con decisiones para poder asegurarnos que toda logica sea correcta.
