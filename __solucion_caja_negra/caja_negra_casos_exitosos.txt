@@ -1,0 +1,12 @@
+- Iniciar app
+- Iniciar app con archivo de comandos preestablecidos
+- Crear proyecto
+- Eliminar proyecto
+- Abrir proyecto
+- Crear reporte
+- Editar reporte
+- Eliminar reporte
+- Ingresar tipos de datos no esperados (strings, simbolos, float, int)
+- Crear proyectos con nombre vacio, simbolos, cadenas muy largas, numeros, combinacion de todo lo anterior.
+- Corregir manualmente el archivo de issues se ve reflejado en la aplicacion en la siguiente ejecucion
+

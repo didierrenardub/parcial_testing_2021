@@ -1,0 +1,22 @@
+Al abrir/eliminar/editar_reporte un proyecto cuando no hay uno,
+se muestra el msg de q no hay proyecto lo cual esta bien
+pero inmediatamente te lleva al prompt de abrir/eliminar/editar_reporte
+proyecto y se queda en loop. solo queda abortar el soft.
+
+Al eliminar y recrear un proyecto con el mismo nombre, 
+el mensaje de creacion dice erroneamente que el proyecto ha sido eliminado.
+
+Al eliminar un proyecto, no se elimina inmediatamente de la lista, 
+y si el usuario selecciona de nuevo el mismo proyecto 
+(en vez de seleccionar otro o salir) se producde un
+error de creacion, que no tiene nada que ver.
+
+El menu de agregar reporte no muestra el campo de "pasos de reproduccion",
+el cual aparece listado en el archivo de issues generados por la aplicacion.
+
+La aplicacion mezcla los campos de los reportes!!
+El archivo resultante frecuentemente mezcla el contenido de los campos
+con el de otros campos del mismo o diferente issue.
+
+Ocasionalmente la tasa de reproduccion se guarda como 0 sin importar el
+valor que se haya ingresado.
