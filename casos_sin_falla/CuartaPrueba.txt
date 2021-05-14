@@ -1,0 +1,2 @@
+4º Funciona sin internet y con internet.
+    Es una aplicación que una vez descargada no requiere de internet.
