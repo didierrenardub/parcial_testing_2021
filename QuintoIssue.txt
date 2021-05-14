@@ -1,0 +1,22 @@
+5º Aparece cartel de un proyecto eliminado, mientras termino de guardar un issue nuevo.
+    1º Corro el programa issue_tracker.py desde la terminal del VSC.
+    2º Selecciono la opcion de crear un nuevo proyecto.
+    3º Le doy un nombre.
+    4º Me aparece el menu para seguir completando los datos del Issue.
+    5º Completo todos los campos.
+    6º Selecciono la opción de guardar.
+    7º Aparece un cartel de 'Proyecto "PruebaGuardado" eliminado correctamente'.
+    8º Luego apreto Enter, me vuelve aparecer el menú para completar el reporte.
+    9º Doy a Guardar nuevamente.
+    10º Me guarda el archivo y me lleva al menú anterior.
+
+Severidad: Baja
+Prioridad: alta
+Plataforma PC sistema operativo: macOS 10.13.6 (17G12034)
+RAM: 8 GB
+Procesador: 2,3 GHz Intel Core i5
+Disco de arranque: Macintosh HD
+GPU: Intel Iris Plus Graphics 640 1536 MB
+
+Aplicación: Issue_tracker Versión: v0.0.1   
+
