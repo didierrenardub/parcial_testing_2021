@@ -1,0 +1,21 @@
+7º Escribo letra alfabética, en vez de números cuando me pide versión, me lo toma a la segunda vez.
+    1º Corro el programa issue_tracker.py desde la terminal del VSC.
+    2º Selecciono la opcion de crear nuevo proyecto
+    3º Voy completando todas las características que me pide para realizar el Issue.
+    4º Llego a la opción de "Versión:".
+    5º Escribo una letra, en vez de un número.
+    6º Aparece un cartel diciendo que escriba un número del 1 al 100.
+    7º Doy enter y me vuelve a aparecer para que escriba que número de versión es.
+    8º Vuelvo a escribir una letra, en vez de un número.
+    9º Me lo toma y queda como la version en letra.
+
+Severidad: Baja
+Prioridad: alta
+Tasa de reproducción: 100% 
+Plataforma PC sistema operativo: macOS 10.13.6 (17G12034)
+RAM: 8 GB
+Procesador: 2,3 GHz Intel Core i5
+Disco de arranque: Macintosh HD
+GPU: Intel Iris Plus Graphics 640 1536 MB
+
+Aplicación: Issue_tracker Versión: v0.0.1   
